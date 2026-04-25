@@ -1,6 +1,4 @@
-# alphaframecosmology
-
-Alpha Frame Cosmology
+# Alpha Frame Cosmology
 
 This book is a speculative physics framework built from one simple question: What if everything we think of as “weird” in quantum mechanics is actually just a result of missing information? What if many of the questions about the universe and quantum mechanics are because our system is a product of actions in a higher dimension and not self contained after all?
 
