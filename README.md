@@ -1,6 +1,7 @@
 # alphaframecosmology
 
 Alpha Frame Cosmology
+
 This book is a speculative physics framework built from one simple question: What if everything we think of as “weird” in quantum mechanics is actually just a result of missing information? What if many of the questions about the universe and quantum mechanics are because our system is a product of actions in a higher dimension and not self contained after all?
 
 Alpha Frame Cosmology incorporates aspects of Brane Theory. It starts with the idea that the Big Bang didn’t happen in our universe at all. Instead, it happened in a higher-dimensional environment. I call this the Alpha Frame so we don’t get lost in a discussion of the number of dimensions involved. From that explosion came shockwaves that passed through a kind of boundary membrane, a Brane, and in doing so, each ripple created a self-contained pocket universe. Ours is just one of many.
